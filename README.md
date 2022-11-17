@@ -24,7 +24,7 @@ Developed with jupyter Notebook technology
 
 **src/psfm-gpr-analysis-sample-averaging.ipynb** Analysis of the impact of the input sample averaging on the quality of the fingerprinting maps generated.
 
-**src/layouts/**/*.ipynb** Some examples of AP layouts
+**src/layouts/*/*.ipynb** Some examples of AP layouts
 
 
 
