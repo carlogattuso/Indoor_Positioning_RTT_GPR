@@ -14,7 +14,7 @@ The purpose of the project is to implement a Gaussian Process Regressor to gener
 
 Developed with jupyter Notebook technology
 
-### Code directories
+## Code directories
 
 **data/dataset_sala_actos_pixel.csv** Training/Validation RTT Distance observations
 
